@@ -22,7 +22,7 @@ The system is designed to automatically enrich franchise data by:
 
 ## 🏗️ Architecture
 
-![GCP Architecture](gcp_architecture.png)
+![GCP Architecture](franchise_data_enrichment_pipeline.png)
 
 *Complete production data pipeline: Cron trigger → Cloud Run Job → GCS → BigQuery → Looker Studio*
 

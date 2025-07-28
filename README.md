@@ -331,6 +331,8 @@ For issues and questions:
 - **Scalability**: Handles 1000+ records per batch
 - **Supply Chain Impact**: 40% reduction in vendor onboarding time
 
+---
+
 ## 💼 Use Cases
 
 ### Supply Chain & Procurement

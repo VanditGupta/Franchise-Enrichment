@@ -6,3 +6,4 @@ playwright
 pydantic
 stagehand
 google-cloud-storage
+diagrams
